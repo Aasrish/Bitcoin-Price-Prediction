@@ -75,6 +75,7 @@ Y_pred & Y_test graphs:
 - XGB              - 61.884
 - LightGBM         - 62.740
 - Random Forest    - 61.456
-
+#Report
+[Report](https://drive.google.com/file/d/1iniU5i7SZzPyzwUiQBuenx9PMATa0dh9/view?usp=sharing)
 # Team:
 _Aasrish Vinay Perumalla_
